@@ -4,7 +4,7 @@ body {
     font-size: 13px;
 }
 
-#container{
+.container-xl{
     margin-left: 60px;
     margin-top: 50px;
 }
