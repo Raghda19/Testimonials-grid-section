@@ -14,8 +14,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Screenshot
 
-![](Screenshoot./Desktop.jpg)
-![](Screenshoot./Mobile.jpg)
+-Screenshot/Desktop.jpg
+-Screenshot/Mobile.jpg
 
 
 ### Links
