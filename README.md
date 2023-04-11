@@ -14,8 +14,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Screenshot
 
--Screenshot/Desktop.jpg
--Screenshot/Mobile.jpg
+<img src="Screenshot/Desktop.png" alt="Desktop">
+<img src="Screenshot/Mobile.png" alt="Mobile">
 
 
 ### Links
